@@ -7,3 +7,4 @@ Instructions
 
 - Clicking on each project photo brings up a modal with a paragraph of text.
 - The portfolio page is fully responsive.
+- This project uses Bootstrap.
